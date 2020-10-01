@@ -79,7 +79,7 @@ $conn->close();
                         </div>
                        
                         <div class="form-group">
-                            <input type="submiting" name="Submit1" id="submit" class="form-submit" value="Submit"/>
+                            <input type="submit" name="Submit1" id="submit" class="form-submit" value="Submiting"/>
                         </div>
                     </form>
                     
