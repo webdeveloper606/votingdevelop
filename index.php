@@ -44,7 +44,7 @@ $conn->close();
     <!-- Main css -->
     <link rel="stylesheet" href="css/style.css">
 </head>
-<body style="background-color: #FF0000;">
+<body style="background-color: #800000;">
 
     <div class="main">
 
